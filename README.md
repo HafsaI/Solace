@@ -21,8 +21,7 @@
 ## Screens
 
 <p float="left">
-  <img height = 300px width = 300px align="center" src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/mandelbrot_cpu.png" />
-  <img height = 300px width = 300px align="center" src="https://github.com/HafsaI/Computer-Graphics/blob/main/images/mandelbrot_gpu.png" />
+  <img height = 300px width = 300px align="center" src="," />
  
 
 </p>
