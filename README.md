@@ -18,14 +18,6 @@
 
 
 
-## Screens
-
-<p float="left">
-  <img height = 300px width = 300px align="center" src="," />
- 
-
-</p>
-
 ##### &#128101; Group Members
 Aliza Saleem Lakhani (al05435)
 
