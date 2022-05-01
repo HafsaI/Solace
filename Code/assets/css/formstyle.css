@@ -1,0 +1,30 @@
+/*--------------------------------------------------------------
+# Login
+--------------------------------------------------------------*/
+
+
+.form_button{
+
+    background: #D24C4C;
+    color: #fff;
+    border-radius: 50px;
+  }
+.form_button:hover{
+  color: #fff;
+  background: #d45959;
+}
+.link{
+  color: #fff;
+
+}
+.red {
+    color: #D24C4C
+}
+.bold{
+    font-weight:bold;
+}
+.lbl{
+    margin-top: 3px;
+    text-align: center;
+    font-size: 9px;
+}
