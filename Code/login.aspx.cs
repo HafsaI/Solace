@@ -11,7 +11,7 @@ namespace CS370_project
 {
     public partial class login : System.Web.UI.Page
     {
-        SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-2TLMARM\SQLSPARTA;Initial Catalog=Ambulance;Integrated Security=True");
+        SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-RSFTGII;Initial Catalog=Ambulance;Integrated Security=True");
         protected void Page_Load(object sender, EventArgs e)
         {
 
@@ -37,7 +37,7 @@ namespace CS370_project
                 if (pass == pwd)
                 {
                     //Response.Write("<script>alert('Logged in successfully')</script>");
-                    Response.Redirect("booking.aspx");
+                    Response.Redirect("Bookingform_without_login.aspx");
                 }
                 else
                 {
@@ -47,7 +47,7 @@ namespace CS370_project
             }
             else
             {
-                Response.Redirect("signup.aspx");
+                //Response.Redirect("signup.aspx");
                 Label2.Visible = true;
                 Label2.Text = "Invalid Login. Account Not Found.";
             }

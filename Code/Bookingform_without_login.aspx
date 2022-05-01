@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="bookingform.aspx.cs" Inherits="CS370_project.bookingform" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Bookingform_without_login.aspx.cs" Inherits="CS370_project.Bookingform_without_login" %>
 
 <!DOCTYPE html>
 
@@ -42,7 +42,8 @@
                     <li><a href="about.aspx">About</a></li>
                     <li><a href="booking.aspx">Booking</a></li>
                     <li><a href="contact.aspx">Contact</a></li>
-                    <li><a class="login" href="login.aspx">Login</a></li>
+                    <li><a class="login" href="login.aspx">Logout</a></li>
+                
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav>

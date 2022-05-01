@@ -13,7 +13,7 @@ namespace CS370_project
     public partial class signup : System.Web.UI.Page
     {
         
-        SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-2TLMARM\SQLSPARTA;Initial Catalog=Ambulance;Integrated Security=True");
+        SqlConnection con = new SqlConnection(@"Data Source=DESKTOP-RSFTGII;Initial Catalog=Ambulance;Integrated Security=True");
 
         protected void Page_Load(object sender, EventArgs e)
         {
