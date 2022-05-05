@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=HTML&logoColor=white&color=9f94d1)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=9f94d1)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=C++&logoColor=white&color=9f94d1)
-
+![](https://img.shields.io/badge/Software-Jira-informational?style=flat&logo=C++&logoColor=white&color=9f94d1)
 
 
 ##  Description
