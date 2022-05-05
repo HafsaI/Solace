@@ -19,13 +19,10 @@
 
 
 ##### &#128101; Group Members
-Aliza Saleem Lakhani (al05435)
-
-Hafsa Irfan (hi05946)
-
-Mohammad Bilal Fayaz (mf05942)
-
-Sudais Baig (sb05588)
+Aliza Saleem Lakhani (al05435) <br>
+Hafsa Irfan (hi05946)     <br>
+Mohammad Bilal Fayaz (mf05942)  <br>
+Sudais Baig (sb05588)           <br>
 
 #####  Drive Link - Sprint Meetings:
 https://drive.google.com/drive/folders/1tTDJmszZdrQ51u7eh6b0A_YOCJjqP8h_?usp=sharing
