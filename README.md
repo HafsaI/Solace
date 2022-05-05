@@ -16,7 +16,8 @@
 
  Solace is a web application that will simplify & streamline the process of seeking medical information and calling ambulances by efficiently reducing the time taken to call ambulances and providing adequate information of the whereabouts under medical encumbrance. 
 
-
+####  Drive Link - Sprint Meetings:
+https://drive.google.com/drive/folders/1tTDJmszZdrQ51u7eh6b0A_YOCJjqP8h_?usp=sharing
 
 ##### &#128101; Group Members
 Aliza Saleem Lakhani (al05435) <br>
@@ -24,8 +25,7 @@ Hafsa Irfan (hi05946)     <br>
 Mohammad Bilal Fayaz (mf05942)  <br>
 Sudais Baig (sb05588)           <br>
 
-#####  Drive Link - Sprint Meetings:
-https://drive.google.com/drive/folders/1tTDJmszZdrQ51u7eh6b0A_YOCJjqP8h_?usp=sharing
+
 
 
  <!-- <details>
